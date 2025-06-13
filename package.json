@@ -44,6 +44,10 @@
         }
     },
     "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "styled-components": "^5.3.11",
+        "@babel/core": "^7.21.4",
         "@revoltchat/rehype-katex": "6.0.3-patch.1",
         "fs-extra": "^10.0.0",
         "klaw": "^3.0.0",
@@ -52,6 +56,8 @@
         "vite": "^3.0.5"
     },
     "devDependencies": {
+        "@types/react": "^18.0.28",
+        "@types/react-dom": "^18.0.11",
         "@babel/plugin-proposal-decorators": "^7.17.9",
         "@floating-ui/react-dom": "^1.0.0",
         "@floating-ui/react-dom-interactions": "^0.9.1",
